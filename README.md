@@ -1,7 +1,7 @@
-Before beginning I ran
-`yo webapp` and selected all 3 choices, Bootstrap
+## Step Debugger
+### A game to learn how to use a programmer's Jackknife
+<h6><a target="_blank" href="https://github.com/reedspool">reedspool</a></h6>
 
-1. Commented out all the JSHint stuff from grunt file
-2. Cleaned up HTML for require
-2. Ran  `bower install d3 knockout lodash https://github.com/reedspool/jquery-event-aggregator.git crossfilter --save`
-3. Wrote or imported `require.js, main.js, driver.js, q.no-require.js, knockout.mapping-latest.js`
+Let's learn how to use a Step Debugger together!
+
+Try out the <a href="http://debugger-game.herokuapp.com/">Live Web Version</a>
